@@ -1,1 +1,9 @@
 # georgia-voter-data-analysis
+
+On Election “Day” (read: Week) 2020, neither of Georgia’s senators drew a simple majority of votes, sending both of their races into special runoff elections in January 2021 that will determine party control of the Senate. Incumbent Republican Senators David Perdue and Kelly Loffler are being respectively challenged by Democrats John Ossof and Rev. Dr. Raphael Warnock. 
+
+Senate control will be essential for President-Elect Joe Biden to freely carry out his policy agenda and push through Supreme Court nominations as he sees fit. According to the New York Times, “tens of millions of dollars in campaign cash are expected to pour into the state to fund a marathon of political advertising.”
+
+Given that national attention is turning towards Georgia, I was curious about voting data from the state. I became particularly interested in understanding voter turnout in terms of racial demographics after hearing about the recent work of Stacey Abrams, who is being widely credited with transforming Georgia from a historically Republican state into a political battleground state. After narrowly losing her bid for Georgia’s governor seat in an election tainted by stains of voter suppression targeting Black voters, Abrams launched Fair Fight, an organization that encourages voter participation and fights targeted voter suppression. Fair Fight has registered 800,000 first-time voters over the past two years. 
+
+My purpose and goal was to first create interesting visuals that might help volunteers at groups like Fair Fight quickly understand how voting trends are shifting in Georgia on a county by county basis and for races that may be systematically suppressed from exercising their right to vote. I additionally wanted to understand if changes in voter turnout for 4 race groups from 2018 to 2020 were statistically significant in order to more tangibly grasp where the attention of voting rights organizations could be focused.
